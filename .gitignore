@@ -15,7 +15,7 @@
 
 # Mono auto generated files
 mono_crash.*
-
+.angular/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
